@@ -1,0 +1,8 @@
+E:\NET\assign\assign\bin\Debug\assign.exe.config
+E:\NET\assign\assign\bin\Debug\assign.exe
+E:\NET\assign\assign\bin\Debug\assign.pdb
+E:\NET\assign\assign\obj\Debug\assign.csproj.AssemblyReference.cache
+E:\NET\assign\assign\obj\Debug\assign.csproj.SuggestedBindingRedirects.cache
+E:\NET\assign\assign\obj\Debug\assign.csproj.CoreCompileInputs.cache
+E:\NET\assign\assign\obj\Debug\assign.exe
+E:\NET\assign\assign\obj\Debug\assign.pdb
