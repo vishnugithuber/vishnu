@@ -1,0 +1,8 @@
+E:\NET\Aug25\Aug25\bin\Debug\Aug25.exe.config
+E:\NET\Aug25\Aug25\bin\Debug\Aug25.exe
+E:\NET\Aug25\Aug25\bin\Debug\Aug25.pdb
+E:\NET\Aug25\Aug25\obj\Debug\Aug25.csproj.AssemblyReference.cache
+E:\NET\Aug25\Aug25\obj\Debug\Aug25.csproj.SuggestedBindingRedirects.cache
+E:\NET\Aug25\Aug25\obj\Debug\Aug25.csproj.CoreCompileInputs.cache
+E:\NET\Aug25\Aug25\obj\Debug\Aug25.exe
+E:\NET\Aug25\Aug25\obj\Debug\Aug25.pdb
