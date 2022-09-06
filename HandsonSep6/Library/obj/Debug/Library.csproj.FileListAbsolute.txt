@@ -1,0 +1,6 @@
+E:\NET\HandsonSep6\Library\bin\Debug\Library.dll
+E:\NET\HandsonSep6\Library\bin\Debug\Library.pdb
+E:\NET\HandsonSep6\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+E:\NET\HandsonSep6\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+E:\NET\HandsonSep6\Library\obj\Debug\Library.dll
+E:\NET\HandsonSep6\Library\obj\Debug\Library.pdb
