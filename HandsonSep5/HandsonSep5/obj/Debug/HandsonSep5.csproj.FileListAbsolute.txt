@@ -1,0 +1,10 @@
+E:\NET\HandsonSep5\HandsonSep5\bin\Debug\HandsonSep5.exe.config
+E:\NET\HandsonSep5\HandsonSep5\bin\Debug\HandsonSep5.pdb
+E:\NET\HandsonSep5\HandsonSep5\obj\Debug\HandsonSep5.csproj.AssemblyReference.cache
+E:\NET\HandsonSep5\HandsonSep5\obj\Debug\HandsonSep5.csproj.SuggestedBindingRedirects.cache
+E:\NET\HandsonSep5\HandsonSep5\obj\Debug\HandsonSep5.csproj.CoreCompileInputs.cache
+E:\NET\HandsonSep5\HandsonSep5\obj\Debug\HandsonSep5.exe
+E:\NET\HandsonSep5\HandsonSep5\obj\Debug\HandsonSep5.pdb
+E:\NET\HandsonSep5\HandsonSep5\bin\Debug\ClassLibrary1.dll
+E:\NET\HandsonSep5\HandsonSep5\bin\Debug\ClassLibrary1.pdb
+E:\NET\HandsonSep5\HandsonSep5\obj\Debug\HandsonSep5.csproj.CopyComplete

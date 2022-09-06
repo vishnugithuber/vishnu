@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandsonSep5", "HandsonSep5\HandsonSep5.csproj", "{60DFC0F1-1937-473B-982A-096D3B611AE9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{21033588-C898-44E3-98AB-591563B2A5AE} = {21033588-C898-44E3-98AB-591563B2A5AE}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{21033588-C898-44E3-98AB-591563B2A5AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60DFC0F1-1937-473B-982A-096D3B611AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60DFC0F1-1937-473B-982A-096D3B611AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60DFC0F1-1937-473B-982A-096D3B611AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60DFC0F1-1937-473B-982A-096D3B611AE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21033588-C898-44E3-98AB-591563B2A5AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21033588-C898-44E3-98AB-591563B2A5AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21033588-C898-44E3-98AB-591563B2A5AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21033588-C898-44E3-98AB-591563B2A5AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {512D13D8-515A-4DF3-803C-6894E63C713F}
+	EndGlobalSection
+EndGlobal
