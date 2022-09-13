@@ -1,0 +1,11 @@
+E:\NET\HandsonSep12\HandsonSep12\bin\Debug\HandsonSep12.exe.config
+E:\NET\HandsonSep12\HandsonSep12\bin\Debug\HandsonSep12.exe
+E:\NET\HandsonSep12\HandsonSep12\bin\Debug\HandsonSep12.pdb
+E:\NET\HandsonSep12\HandsonSep12\obj\Debug\HandsonSep12.csproj.AssemblyReference.cache
+E:\NET\HandsonSep12\HandsonSep12\obj\Debug\HandsonSep12.csproj.SuggestedBindingRedirects.cache
+E:\NET\HandsonSep12\HandsonSep12\obj\Debug\HandsonSep12.csproj.CoreCompileInputs.cache
+E:\NET\HandsonSep12\HandsonSep12\obj\Debug\HandsonSep12.exe
+E:\NET\HandsonSep12\HandsonSep12\obj\Debug\HandsonSep12.pdb
+E:\NET\HandsonSep12\HandsonSep12\bin\Debug\Library1.dll
+E:\NET\HandsonSep12\HandsonSep12\bin\Debug\Library1.pdb
+E:\NET\HandsonSep12\HandsonSep12\obj\Debug\HandsonSep12.csproj.CopyComplete
