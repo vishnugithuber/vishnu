@@ -1,0 +1,11 @@
+E:\NET\HandsOnSep14\HandsOnSep14\bin\Debug\HandsOnSep14.exe.config
+E:\NET\HandsOnSep14\HandsOnSep14\bin\Debug\HandsOnSep14.exe
+E:\NET\HandsOnSep14\HandsOnSep14\bin\Debug\HandsOnSep14.pdb
+E:\NET\HandsOnSep14\HandsOnSep14\obj\Debug\HandsOnSep14.csproj.AssemblyReference.cache
+E:\NET\HandsOnSep14\HandsOnSep14\obj\Debug\HandsOnSep14.csproj.SuggestedBindingRedirects.cache
+E:\NET\HandsOnSep14\HandsOnSep14\obj\Debug\HandsOnSep14.csproj.CoreCompileInputs.cache
+E:\NET\HandsOnSep14\HandsOnSep14\obj\Debug\HandsOnSep14.exe
+E:\NET\HandsOnSep14\HandsOnSep14\obj\Debug\HandsOnSep14.pdb
+E:\NET\HandsOnSep14\HandsOnSep14\bin\Debug\ClassLibrary1.dll
+E:\NET\HandsOnSep14\HandsOnSep14\bin\Debug\ClassLibrary1.pdb
+E:\NET\HandsOnSep14\HandsOnSep14\obj\Debug\HandsOnSep14.csproj.CopyComplete
