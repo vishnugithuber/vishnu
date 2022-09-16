@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<CustomerUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <password>123456789</password>
+  <Id>7904358017</Id>
+  <Password>123456789</Password>
+  <login>true</login>
+  <alreadyseen />
+</CustomerUser>

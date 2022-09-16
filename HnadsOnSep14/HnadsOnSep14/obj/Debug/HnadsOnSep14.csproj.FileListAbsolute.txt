@@ -1,0 +1,13 @@
+E:\NET\HnadsOnSep14\HnadsOnSep14\bin\Debug\HnadsOnSep14.exe.config
+E:\NET\HnadsOnSep14\HnadsOnSep14\bin\Debug\HnadsOnSep14.exe
+E:\NET\HnadsOnSep14\HnadsOnSep14\bin\Debug\HnadsOnSep14.pdb
+E:\NET\HnadsOnSep14\HnadsOnSep14\obj\Debug\HnadsOnSep14.csproj.AssemblyReference.cache
+E:\NET\HnadsOnSep14\HnadsOnSep14\obj\Debug\HnadsOnSep14.csproj.SuggestedBindingRedirects.cache
+E:\NET\HnadsOnSep14\HnadsOnSep14\obj\Debug\HnadsOnSep14.csproj.CoreCompileInputs.cache
+E:\NET\HnadsOnSep14\HnadsOnSep14\obj\Debug\HnadsOnSep14.exe
+E:\NET\HnadsOnSep14\HnadsOnSep14\obj\Debug\HnadsOnSep14.pdb
+E:\NET\HnadsOnSep14\HnadsOnSep14\bin\Debug\ClassLibrary1.dll
+E:\NET\HnadsOnSep14\HnadsOnSep14\bin\Debug\Newtonsoft.Json.dll
+E:\NET\HnadsOnSep14\HnadsOnSep14\bin\Debug\ClassLibrary1.pdb
+E:\NET\HnadsOnSep14\HnadsOnSep14\bin\Debug\Newtonsoft.Json.xml
+E:\NET\HnadsOnSep14\HnadsOnSep14\obj\Debug\HnadsOnSep14.csproj.CopyComplete
