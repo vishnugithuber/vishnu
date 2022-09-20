@@ -1,0 +1,41 @@
+create database Shopping
+use Shopping
+create table customer
+(
+custid int primary key,
+custname varchar(20),
+city varchar(20),
+states varchar(20)
+)
+create table products
+(
+proid int,
+prodname varchar(20),
+unitprice int,
+unitofMeasurment int,
+Qytinstock int
+
+)
+create table sales_header
+(
+invno int,
+invdate  int,
+invamt int,
+dispercent int
+
+)
+create table sales_detail
+(
+invo int,
+custid int,
+proid int,
+qtysold int
+)
+alter table sales_detail
+add foreign key(custid)references customers(custid)
+alter table sales_detail
+add foreign key(proid)references customers(proid)
+
+drop column qtysold
+alter table sales_detail
+add Qty varchar(20)
