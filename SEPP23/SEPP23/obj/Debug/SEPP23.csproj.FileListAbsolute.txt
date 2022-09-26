@@ -1,0 +1,8 @@
+E:\NET\SEPP23\SEPP23\bin\Debug\SEPP23.exe.config
+E:\NET\SEPP23\SEPP23\bin\Debug\SEPP23.exe
+E:\NET\SEPP23\SEPP23\bin\Debug\SEPP23.pdb
+E:\NET\SEPP23\SEPP23\obj\Debug\SEPP23.csproj.AssemblyReference.cache
+E:\NET\SEPP23\SEPP23\obj\Debug\SEPP23.csproj.SuggestedBindingRedirects.cache
+E:\NET\SEPP23\SEPP23\obj\Debug\SEPP23.csproj.CoreCompileInputs.cache
+E:\NET\SEPP23\SEPP23\obj\Debug\SEPP23.exe
+E:\NET\SEPP23\SEPP23\obj\Debug\SEPP23.pdb
