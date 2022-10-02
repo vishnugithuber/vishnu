@@ -1,0 +1,6 @@
+E:\NET\HandsOnSep24\BAL\bin\Debug\BAL.dll
+E:\NET\HandsOnSep24\BAL\bin\Debug\BAL.pdb
+E:\NET\HandsOnSep24\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+E:\NET\HandsOnSep24\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+E:\NET\HandsOnSep24\BAL\obj\Debug\BAL.dll
+E:\NET\HandsOnSep24\BAL\obj\Debug\BAL.pdb

@@ -1,0 +1,6 @@
+E:\NET\HandsOnSep24\Helper\bin\Debug\Helper.dll
+E:\NET\HandsOnSep24\Helper\bin\Debug\Helper.pdb
+E:\NET\HandsOnSep24\Helper\obj\Debug\Helper.csproj.AssemblyReference.cache
+E:\NET\HandsOnSep24\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+E:\NET\HandsOnSep24\Helper\obj\Debug\Helper.dll
+E:\NET\HandsOnSep24\Helper\obj\Debug\Helper.pdb

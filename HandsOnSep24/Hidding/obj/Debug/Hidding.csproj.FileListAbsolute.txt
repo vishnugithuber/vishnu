@@ -1,0 +1,11 @@
+E:\NET\HandsOnSep24\Hidding\bin\Debug\Hidding.dll
+E:\NET\HandsOnSep24\Hidding\bin\Debug\Hidding.pdb
+E:\NET\HandsOnSep24\Hidding\obj\Debug\Hidding.csproj.AssemblyReference.cache
+E:\NET\HandsOnSep24\Hidding\obj\Debug\Hidding.csproj.CoreCompileInputs.cache
+E:\NET\HandsOnSep24\Hidding\obj\Debug\Hidding.dll
+E:\NET\HandsOnSep24\Hidding\obj\Debug\Hidding.pdb
+E:\NET\HandsOnSep24\Hidding\bin\Debug\BAL.dll
+E:\NET\HandsOnSep24\Hidding\bin\Debug\DAL.dll
+E:\NET\HandsOnSep24\Hidding\bin\Debug\BAL.pdb
+E:\NET\HandsOnSep24\Hidding\bin\Debug\DAL.pdb
+E:\NET\HandsOnSep24\Hidding\obj\Debug\Hidding.csproj.CopyComplete

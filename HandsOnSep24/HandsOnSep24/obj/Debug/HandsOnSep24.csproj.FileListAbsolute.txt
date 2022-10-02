@@ -1,0 +1,17 @@
+E:\NET\HandsOnSep24\HandsOnSep24\bin\Debug\HandsOnSep24.exe.config
+E:\NET\HandsOnSep24\HandsOnSep24\bin\Debug\HandsOnSep24.exe
+E:\NET\HandsOnSep24\HandsOnSep24\bin\Debug\HandsOnSep24.pdb
+E:\NET\HandsOnSep24\HandsOnSep24\obj\Debug\HandsOnSep24.csproj.AssemblyReference.cache
+E:\NET\HandsOnSep24\HandsOnSep24\obj\Debug\HandsOnSep24.csproj.SuggestedBindingRedirects.cache
+E:\NET\HandsOnSep24\HandsOnSep24\obj\Debug\HandsOnSep24.csproj.CoreCompileInputs.cache
+E:\NET\HandsOnSep24\HandsOnSep24\obj\Debug\HandsOnSep24.exe
+E:\NET\HandsOnSep24\HandsOnSep24\obj\Debug\HandsOnSep24.pdb
+E:\NET\HandsOnSep24\HandsOnSep24\bin\Debug\BAL.dll
+E:\NET\HandsOnSep24\HandsOnSep24\bin\Debug\DAL.dll
+E:\NET\HandsOnSep24\HandsOnSep24\bin\Debug\Helper.dll
+E:\NET\HandsOnSep24\HandsOnSep24\bin\Debug\Hidding.dll
+E:\NET\HandsOnSep24\HandsOnSep24\bin\Debug\BAL.pdb
+E:\NET\HandsOnSep24\HandsOnSep24\bin\Debug\DAL.pdb
+E:\NET\HandsOnSep24\HandsOnSep24\bin\Debug\Helper.pdb
+E:\NET\HandsOnSep24\HandsOnSep24\bin\Debug\Hidding.pdb
+E:\NET\HandsOnSep24\HandsOnSep24\obj\Debug\HandsOnSep24.csproj.CopyComplete
